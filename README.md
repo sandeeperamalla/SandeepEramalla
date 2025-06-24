@@ -38,6 +38,7 @@ This helps me break down complexity into crystal-clear steps and makes implement
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-007ACC?style=flat)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
 ### ☁️ DevOps & Tools
