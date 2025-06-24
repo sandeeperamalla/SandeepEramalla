@@ -41,6 +41,11 @@ This helps me break down complexity into crystal-clear steps and makes implement
 ![Microservices](https://img.shields.io/badge/Microservices-007ACC?style=flat)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat)
+![Spring JDBC](https://img.shields.io/badge/Spring_JDBC-6DB33F?style=flat)
+
 ### ☁️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
