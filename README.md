@@ -57,6 +57,7 @@ This helps me break down complexity into crystal-clear steps and makes implement
 ![AI Tools](https://img.shields.io/badge/AI_Tools-5F5F5F?style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Java DSA](https://img.shields.io/badge/DSA-333333?style=flat&logo=codewars&logoColor=white)
 
 
 ---
