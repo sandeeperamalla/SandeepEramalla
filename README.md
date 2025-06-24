@@ -54,3 +54,36 @@ This helps me break down complexity into crystal-clear steps and makes implement
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 
+---
+
+## 🚀 Projects
+
+### 🛒 Full-Stack E-Commerce Platform  
+**Spring Boot | ReactJS | Kafka | Microservices**
+
+Designed and built a scalable e-commerce system with **10+ Spring Boot microservices** and **30+ secured REST APIs** supporting user roles (user, seller, admin).  
+- 🔐 Secured APIs with Spring Security & JWT (role-based access)  
+- 🛒 Built responsive React UI for shopping, order tracking, and admin dashboards  
+- ⚙️ Kafka for async messaging, Redis for caching, Eureka + Gateway for service discovery  
+- 🧱 Resilience4j enabled fault-tolerance and high availability  
+
+**Tech:** Spring Boot, Spring Cloud, Eureka, API Gateway, Kafka, Feign, JWT, React, Redis, MySQL  
+
+[🔗 View on GitHub](https://github.com/your-username/ecommerce-platform)
+
+---
+
+### 🏦 Internet Banking System  
+**Spring Boot | React.js | RabbitMQ | Microservices**
+
+Developed a secure and responsive online banking system with **microservices architecture** and **25+ REST APIs** for managing accounts and transactions.  
+- 🔐 Used JWT & Spring Security for robust role-based auth  
+- 📨 RabbitMQ for async transaction processing & notifications  
+- 🌐 React.js + Tailwind UI for clean UX (fund transfers, statements, OTPs)  
+- ⚡ Redis caching optimized performance under high load  
+
+**Tech:** Spring Boot, JWT, RabbitMQ, Redis, React.js, Tailwind CSS, MySQL, Mailtrap  
+
+[🔗 View on GitHub](https://github.com/your-username/internet-banking-system)
+
+
